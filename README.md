@@ -3,6 +3,7 @@
 <!--
 **NancySaxena1-eng/NancySaxena1-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+** -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision projects 
@@ -10,8 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/nancy-saxena-28a7b216b/
 
-** -->I have also worked on CI/CD pipelines and cloud technologies.
 
-** Some projects are "In Progress"!
+I have also worked on CI/CD pipelines and cloud technologies.
+
+**Some projects are "In Progress"!
 
 
