@@ -8,7 +8,7 @@ About me :
 - 🔭 I’m currently working on Computer Vision projects 
 - 🌱 I’m currently learning Natural Language Processing
 - 💬 Ask me about anything!
-- 📫 Reach me at LinkedIn https://www.linkedin.com/in/nancy-saxena-28a7b216b/
+- 📫 Reach me at LinkedIn https://www.linkedin.com/in/nancy-saxena
 
 
 I have also worked on CI/CD pipelines and cloud technologies.
