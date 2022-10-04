@@ -1,17 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Nancy
+#### I am a student at San Jose State University
+![I am a student at San Jose State University](erterererewrewrewrerewrewrewrewr)
 
-<!--
-**NancySaxena1-eng/NancySaxena1-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am student and passionate about Data Science and Machine learning applications in software processes and development! #womenwhocode :)
 
-** -->
-About me : 
-- 🔭 I’m currently working on Computer Vision projects 
-- 🌱 I’m currently learning Natural Language Processing
-- 💬 Ask me about anything!
-- 📫 Reach me at LinkedIn https://www.linkedin.com/in/nancy-saxena
+Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
+🔭 I’m currently working on Computer Vision projects
+🌱 I’m currently learning Natural Language Processing
+💬 Ask me about anything!
+📫 Reach me at LinkedIn https://www.linkedin.com/in/nancy
 
-I have also worked on CI/CD pipelines and cloud technologies.
 
 **Some projects are "In Progress"!
 
