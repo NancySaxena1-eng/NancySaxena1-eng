@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Nancy
 #### I am a student at San Jose State University
-![I am a student at San Jose State University](erterererewrewrewrerewrewrewrewr)
 
 Currently I am student and passionate about Data Science and Machine learning applications in software processes and development! #womenwhocode :)
 
