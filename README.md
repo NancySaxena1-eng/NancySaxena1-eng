@@ -5,7 +5,11 @@ Currently I am student and passionate about Data Science and Machine learning ap
 
 Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working Computer Vision projects. 
+- Basic projects on Machine learning projects can be found here :
+- Basic Database system concepts can be found here : Coming soon!
+- You can explore some cool implementations of tools in DevOps process here:Coming Soon!
+- Leetcode basics : Coming soon!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NancySaxena1-eng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nancy-saxena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10040330/nancy)  
