@@ -6,19 +6,17 @@ Currently I am student and passionate about Data Science and Machine learning ap
 
 Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
-🔭 I’m currently working on Computer Vision projects
-🌱 I’m currently learning Natural Language Processing
-💬 Ask me about anything!
-📫 Reach me at LinkedIn https://www.linkedin.com/in/nancy
+- 🔭 I’m currently working on this page. 
 
 
-**Some projects are "In Progress"!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NancySaxena1-eng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nancy-saxena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/10040330/nancy)  
 
-Stats :
+[![trophy](https://github-profile-trophy.vercel.app/?username=NancySaxena1-eng)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NancySaxena1-eng&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NancySaxena1-eng&show_icons=true)  
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng&langs_count=5&theme=tokyonight)]()
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NancySaxena1-eng)  
 
-
+![Profile views](https://gpvc.arturio.dev/NancySaxena1-eng)  
