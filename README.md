@@ -1,7 +1,10 @@
 ### Hi there 👋, my name is Nancy
 #### I am a student at San Jose State University
 
-Currently I am student and passionate about Data Science and Machine learning applications in software processes and development! #womenwhocode :)
+Currently I am student and passionate about Data Science and Machine learning applications in software processes and development! 
+
+
+#womenwhocode :)
 
 Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
