@@ -25,6 +25,5 @@ https://github.com/NancySaxena1-eng/LeetCode-Basics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng)](https://github.com/NancySaxena1-eng/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NancySaxena1-eng)  
 
 ![Profile views](https://gpvc.arturio.dev/NancySaxena1-eng)  
