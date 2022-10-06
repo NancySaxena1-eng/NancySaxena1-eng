@@ -23,7 +23,7 @@ https://github.com/NancySaxena1-eng/LeetCode-Basics
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NancySaxena1-eng)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng)](https://github.com/NancySaxena1-eng/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NancySaxena1-eng)  
 
