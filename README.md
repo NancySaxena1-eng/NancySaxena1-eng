@@ -14,7 +14,7 @@ Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 - You can explore some cool implementations of tools in DevOps process here:Coming Soon!
 - Leetcode basics : 
 https://github.com/NancySaxena1-eng/LeetCode-Basics
-- Some codes in C++:
+- Some codes in C++:https://github.com/NancySaxena1-eng/C-_practice_assignments-
 
 
 
