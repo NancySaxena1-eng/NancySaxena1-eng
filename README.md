@@ -16,6 +16,7 @@ https://github.com/JVP15/fruit-detection
 - Leetcode basics : 
 https://github.com/NancySaxena1-eng/LeetCode-Basics
 - Some codes in C++:https://github.com/NancySaxena1-eng/C-_practice_assignments-
+- Basics of AWS
 
 
 
