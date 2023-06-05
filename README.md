@@ -8,8 +8,7 @@ I am passionate about Data Science and Machine learning applications in software
 
 Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
-- 🔭 I’m currently working Computer Vision project. 
-https://github.com/JVP15/fruit-detection
+- Computer vision project: https://github.com/JVP15/fruit-detection
 - Basic projects on Machine learning projects can be found here :
 - Basic Database system concepts can be found here : Coming soon!
 - You can explore some cool implementations of tools in DevOps process here:Coming Soon!
@@ -17,6 +16,7 @@ https://github.com/JVP15/fruit-detection
 https://github.com/NancySaxena1-eng/LeetCode-Basics
 - Some codes in C++:https://github.com/NancySaxena1-eng/C-_practice_assignments-
 - Basics of AWS
+- Basics of MLOps
 
 
 
