@@ -1,22 +1,17 @@
 ### Hi there 👋, my name is Nancy
-#### I am a student at San Jose State University
 
 I am passionate about Data Science and Machine learning applications in software processes and development! 
 
-
-#womenwhocode :)
 
 Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
 - Computer vision project: https://github.com/JVP15/fruit-detection
 - Basic projects on Machine learning projects can be found here :
-- Basic Database system concepts can be found here : Coming soon!
-- You can explore some cool implementations of tools in DevOps process here:Coming Soon!
-- Leetcode basics : 
-https://github.com/NancySaxena1-eng/LeetCode-Basics
-- Some codes in C++:https://github.com/NancySaxena1-eng/C-_practice_assignments-
-- Basics of AWS
-- Basics of MLOps
+- Basic Database system concepts can be found here : 
+- Leetcode basics : https://github.com/NancySaxena1-eng/LeetCode-Basics
+- Some codes in C++: https://github.com/NancySaxena1-eng/C-_practice_assignments-
+- Basics of AWS: 
+- Basics of MLOps: https://github.com/NancySaxena1-eng/MLOPS-2023
 
 
 
