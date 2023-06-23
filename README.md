@@ -22,5 +22,6 @@ Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng)](https://github.com/NancySaxena1-eng/github-readme-stats)
 
 
-![Profile views](https://gpvc.arturio.dev/NancySaxena1-eng)
+![](https://komarev.com/ghpvc/?username=NancySaxena1-eng&label=PROFILE+VIEWS)
+
  
