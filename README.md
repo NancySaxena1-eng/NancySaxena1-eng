@@ -12,6 +12,7 @@ Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 - Some codes in C++: https://github.com/NancySaxena1-eng/C-_practice_assignments-
 - Basics of AWS: 
 - Basics of MLOps: https://github.com/NancySaxena1-eng/MLOPS-2023
+- Microsoft Azure DevOps Learning path: https://github.com/Azure-DevOps-practice-2023/DevOps-400
 
 
 
