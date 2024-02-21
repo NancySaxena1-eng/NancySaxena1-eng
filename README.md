@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Nancy
 
-I am passionate about Data Science and Machine learning applications in software processes and development! 
-
-
 Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 
 - Computer vision project: https://github.com/JVP15/fruit-detection
@@ -10,11 +7,7 @@ Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
 - Basic Database system concepts can be found here : 
 - Leetcode basics : https://github.com/NancySaxena1-eng/LeetCode-Basics
 - Some codes in C++: https://github.com/NancySaxena1-eng/C-_practice_assignments-
-- Basics of AWS: 
 - Basics of MLOps: https://github.com/NancySaxena1-eng/MLOPS-2023
-- Microsoft Azure DevOps Learning path: https://github.com/Azure-DevOps-practice-2023/DevOps-400
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NancySaxena1-eng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nancy-saxena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10040330/nancy)  
 
