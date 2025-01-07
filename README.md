@@ -1,18 +1,37 @@
-### Hi there 👋, my name is Nancy
+# 👋 Hi, I'm Nancy Saxena!
 
-Skills: Python / Machine Learning / Deep Learning / MLOps / DevOps
+Welcome to my GitHub profile! I'm a passionate software engineer with a love for coding and problem-solving. Here you'll find a collection of my projects, contributions, and interests. Feel free to explore and connect with me!
 
-- Computer vision project: https://github.com/JVP15/fruit-detection :
-- Leetcode basics : https://github.com/NancySaxena1-eng/LeetCode-Basics
-- Basics of MLOps: https://github.com/NancySaxena1-eng/MLOPS-2023
+## 🔧 Technologies & Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NancySaxena1-eng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nancy-saxena//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10040330/nancy)  
+- **Languages:** Python
+- **Frameworks:** React, Node.js, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Cloud:** Google Cloud,AWS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NancySaxena1-eng)](https://github.com/NancySaxena1-eng/github-profile-trophy)
+## 🌱 Currently Learning
+- Google Cloud Platform
+- MLOps
+- Microservices architecture
+- Machine Learning with TensorFlow and PyTorch
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancySaxena1-eng)](https://github.com/NancySaxena1-eng/github-readme-stats)
+## 📈 GitHub Stats
+
+![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NancySaxena1-eng&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** [nancy.saxena@example.com](mailto:nancy7th@gmail.com)
+- **LinkedIn:** [Nancy Saxena](https://www.linkedin.com/in/nancysaxena)
+
+## 🔗 Projects
+
+Here are a few projects I'm proud of:
+
+- [Project Name](https://github.com/NancySaxena1-eng/project-name): Brief description of the project.
+- [Another Project](https://github.com/NancySaxena1-eng/another-project): Brief description of the project.
+- [Yet Another Project](https://github.com/NancySaxena1-eng/yet-another-project): Brief description of the project.
 
 
-![](https://komarev.com/ghpvc/?username=NancySaxena1-eng&label=PROFILE+VIEWS)
-
- 
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
