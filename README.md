@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 ## 📫 How to Reach Me
 
-- **Email:** [nancy.saxena@example.com](mailto:nancy7th@gmail.com)
+- **Email:** [nancy7th@gmail.com](mailto:nancy7th@gmail.com)
 - **LinkedIn:** [Nancy Saxena](https://www.linkedin.com/in/nancysaxena)
 
 ## 🔗 Projects
