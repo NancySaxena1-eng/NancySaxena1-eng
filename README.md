@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python
-- **Frameworks:** React, Node.js, Django, Flask
+- **Frameworks:**, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Cloud:** Google Cloud,AWS
