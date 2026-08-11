@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 Here are a few projects I'm proud of:
 
 - [CI-CD on GCP](https://github.com/stars/NancySaxena1-eng/lists/gcp-ci-cd)
-- [Academic team Projects](https://github.com/NancySaxena1-eng/another-project): Brief description of the project.
-- [Miscellaneous](https://github.com/NancySaxena1-eng/yet-another-project): Brief description of the project.
+
+
 
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
