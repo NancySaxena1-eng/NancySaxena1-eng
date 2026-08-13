@@ -27,9 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 ## 🔗 Projects
 
-Here are a few projects I'm proud of:
-
-- [CI-CD on GCP](https://github.com/stars/NancySaxena1-eng/lists/gcp-ci-cd)
+- [CI-CD on GCP](https://github.com/stars/NancySaxena1-eng/lists/ml-mlops-cloud)
 
 
 
