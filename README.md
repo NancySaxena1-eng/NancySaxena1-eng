@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 ## 🔗 Projects
 - [Multimodal AI](https://github.com/stars/NancySaxena1-eng/lists/multimodal-ai-list)
+- [LLM App](https://github.com/stars/NancySaxena1-eng/lists/llm-app)
 - [CI-CD on GCP](https://github.com/stars/NancySaxena1-eng/lists/ml-mlops-cloud)
 
 
