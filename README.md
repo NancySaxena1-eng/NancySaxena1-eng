@@ -33,6 +33,6 @@ RAG/agentic system for enterprise knowledge retrieval and reasoning.
 
   ## 🔗 Connect
 
-  [LinkedIn](https://www.linkedin.com/in/nancy-saxena/)
+     [LinkedIn](https://www.linkedin.com/in/nancy-saxena/)
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
