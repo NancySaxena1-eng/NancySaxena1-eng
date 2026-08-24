@@ -12,11 +12,7 @@ My background combines applied AI with software and cloud engineering, with expe
 - ⚙️ AI/ML Engineering & Deployment
 - ☁️ Cloud & Production Systems
 
-## 📫 Connect with me 
-- **Email:** [nancy7th@gmail.com](mailto:nancy7th@gmail.com)
-- **LinkedIn:** [Nancy Saxena](https://www.linkedin.com/in/nancysaxena)
-
-## 🔗 Projects
+## 🚀 Featured Projects
 - Multimodal AI<br />
   1. [AI Virtual stylist](https://github.com/NancySaxena1-eng/AI-Virtual-Stylist)<br />
 - LLM App<br />
@@ -26,6 +22,11 @@ My background combines applied AI with software and cloud engineering, with expe
   2. [Create and Deploy bike share model on GCP](https://github.com/NancySaxena1-eng/Deploy-BikeshareMLModel-GCP)<br />
   3. [Deploy application to summaries text using Vertex AI language models-GCP](https://github.com/NancySaxena1-eng/GenAI-on-GCP)<br />
   4. [Model training using GCP composer](https://github.com/NancySaxena1-eng/Continuous-model-training-pipeline-using-GCPComposer)<br />
-  5. [ML-XGBOOST,KNN, Random forest](https://github.com/NancySaxena1-eng/Basic_ML_Part1_coursework)
+  5. [ML-XGBOOST,KNN, Random forest](https://github.com/NancySaxena1-eng/Basic_ML_Part1_coursework)<br />
+
+
+  ## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/nancy-saxena/)
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
