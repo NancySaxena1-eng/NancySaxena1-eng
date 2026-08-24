@@ -13,11 +13,17 @@ My background combines applied AI with software and cloud engineering, with expe
 - ☁️ Cloud & Production Systems
 
 ## 🚀 Featured Projects
-- Multimodal AI<br />
-  1. [AI Virtual stylist](https://github.com/NancySaxena1-eng/AI-Virtual-Stylist)<br />
-- LLM App<br />
-  1. [Enterprise Knowledge Agent](https://github.com/NancySaxena1-eng/Enterprise-Knowledge-Agent)<br />
-- ML/MLOps/Cloud<br />
+### 👗 Multimodal AI — AI Virtual Stylist
+[Repository]https://github.com/NancySaxena1-eng/AI-Virtual-Stylist)<br />
+
+Multimodal AI application combining vision and language models.
+
+### 🧠 Enterprise Knowledge Agent
+[Repository](https://github.com/NancySaxena1-eng/Enterprise-Knowledge-Agent)
+
+RAG/agentic system for enterprise knowledge retrieval and reasoning.
+
+### ML/MLOps/Cloud<br />
   1. [GCP-Cloudbuild-GIThubtriggers](https://github.com/NancySaxena1-eng/GCP-Cloudbuild-GIThubtriggers)<br />
   2. [Create and Deploy bike share model on GCP](https://github.com/NancySaxena1-eng/Deploy-BikeshareMLModel-GCP)<br />
   3. [Deploy application to summaries text using Vertex AI language models-GCP](https://github.com/NancySaxena1-eng/GenAI-on-GCP)<br />
