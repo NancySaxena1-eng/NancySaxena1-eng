@@ -31,8 +31,6 @@ RAG/agentic system for enterprise knowledge retrieval and reasoning.
   5. [ML-XGBOOST,KNN, Random forest](https://github.com/NancySaxena1-eng/Basic_ML_Part1_coursework)<br />
 
 
-  ## 🔗 Connect
-
-     [LinkedIn](https://www.linkedin.com/in/nancy-saxena/)
+  ## 🔗 Connect - [LinkedIn](https://www.linkedin.com/in/nancy-saxena/)
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
