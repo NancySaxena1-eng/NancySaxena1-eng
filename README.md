@@ -18,9 +18,14 @@ AI Engineering: Python, FastAPI, Docker, Kubernetes, AWS, GCP
 
 ## 🔗 Projects
 - Multimodal AI
-  (https://github.com/stars/NancySaxena1-eng/lists/multimodal-ai-list)
-
-- [LLM App](https://github.com/stars/NancySaxena1-eng/lists/llm-app)
-- [CI-CD on GCP](https://github.com/stars/NancySaxena1-eng/lists/ml-mlops-cloud)
+  1.[AI Virtual stylist](https://github.com/NancySaxena1-eng/AI-Virtual-Stylist)
+- LLM App
+  1. [Enterprise Knowledge Agent](https://github.com/NancySaxena1-eng/Enterprise-Knowledge-Agent)
+- ML/MLOps/Cloud
+  1.[GCP-Cloudbuild-GIThubtriggers](https://github.com/NancySaxena1-eng/GCP-Cloudbuild-GIThubtriggers)
+  2.[Create and Deploy bike share model on GCP](https://github.com/NancySaxena1-eng/Deploy-BikeshareMLModel-GCP)
+  3.[Deploy application to summaries text using Vertex AI language models-GCP](https://github.com/NancySaxena1-eng/GenAI-on-GCP)
+  4.[Model training using GCP composer](https://github.com/NancySaxena1-eng/Continuous-model-training-pipeline-using-GCPComposer)
+  5.[ML-XGBOOST,KNN, Random forest](https://github.com/NancySaxena1-eng/Basic_ML_Part1_coursework)
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
