@@ -14,7 +14,7 @@ My background combines applied AI with software and cloud engineering, with expe
 
 ## 🚀 Featured Projects
 ### 👗 Multimodal AI — AI Virtual Stylist
-[Repository]https://github.com/NancySaxena1-eng/AI-Virtual-Stylist)<br />
+[Repository](https://github.com/NancySaxena1-eng/AI-Virtual-Stylist)<br />
 
 Multimodal AI application combining vision and language models.
 
