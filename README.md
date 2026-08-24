@@ -1,6 +1,5 @@
 # 👋 Hi there!
 
-AI Engineer — Multimodal AI & Computer Vision
 I build end-to-end AI systems spanning computer vision, multimodal AI, LLMs, and agentic workflows.
 
 My background combines applied AI with software and cloud engineering, with experience across PyTorch, OpenCV, FastAPI, Docker, Kubernetes, AWS and GCP.
