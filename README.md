@@ -17,7 +17,9 @@ AI Engineering: Python, FastAPI, Docker, Kubernetes, AWS, GCP
 - **LinkedIn:** [Nancy Saxena](https://www.linkedin.com/in/nancysaxena)
 
 ## 🔗 Projects
-- [Multimodal AI](https://github.com/stars/NancySaxena1-eng/lists/multimodal-ai-list)
+- Multimodal AI
+  (https://github.com/stars/NancySaxena1-eng/lists/multimodal-ai-list)
+
 - [LLM App](https://github.com/stars/NancySaxena1-eng/lists/llm-app)
 - [CI-CD on GCP](https://github.com/stars/NancySaxena1-eng/lists/ml-mlops-cloud)
 
