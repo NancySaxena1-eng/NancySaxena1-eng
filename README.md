@@ -23,6 +23,9 @@ Multimodal AI application combining vision and language models.
 
 RAG/agentic system for enterprise knowledge retrieval and reasoning.
 
+### Stateful Rag Agent
+[Repository](https://github.com/NancySaxena1-eng/Stateful_Rag_Agent)
+
 ### ML/MLOps/Cloud<br />
   1. [GCP-Cloudbuild-GIThubtriggers](https://github.com/NancySaxena1-eng/GCP-Cloudbuild-GIThubtriggers)<br />
   2. [Create and Deploy bike share model on GCP](https://github.com/NancySaxena1-eng/Deploy-BikeshareMLModel-GCP)<br />
