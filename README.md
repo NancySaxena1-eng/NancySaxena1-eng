@@ -23,7 +23,7 @@ Multimodal AI application combining vision and language models.
 
 RAG/agentic system for enterprise knowledge retrieval and reasoning.
 
-### Stateful Rag Agent
+### 🧠 Stateful Rag Agent
 [Repository](https://github.com/NancySaxena1-eng/Stateful_Rag_Agent)
 
 ### ML/MLOps/Cloud<br />
